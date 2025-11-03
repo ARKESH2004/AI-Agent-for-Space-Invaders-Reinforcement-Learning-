@@ -1,0 +1,15 @@
+# Frontend Dependencies for Space Invaders DQN
+# Flask Backend API
+
+Flask==2.3.3
+Flask-CORS==4.0.0
+tensorflow>=2.20.0
+keras-rl2==1.0.5
+gymnasium>=0.29.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+pillow>=10.0.0
+requests>=2.31.0
